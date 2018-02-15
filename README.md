@@ -1,7 +1,7 @@
 # ReactNativeExamplarStarter
 Simple React Native App comprehensive file structure. Uses Expo to test Android or IOS mobile. No Redux implementation, as the file structure differs based on preference at that point.
 
-After downloading/extracting into a folder, go into same path as package.json and run the following:
+After downloading/extracting into a folder, go into same path as package.json and run the following(assuming you have 'yarn' installed):
 - yarn install
 - (once yarn install is completed) yarn start 
 
